@@ -15,5 +15,5 @@ Execute on colab :
 `./ccudem_cards.ipynb`  
 
 Execute on colab :  
-https://colab.research.google.com/drive/1kI2QNtHn_kmJFwkgZZEkj_gf7NgdTuHf#scrollTo=kEyDZc1Byhhd
+https://colab.research.google.com/drive/1kI2QNtHn_kmJFwkgZZEkj_gf7NgdTuHf?usp=drive_link
 
