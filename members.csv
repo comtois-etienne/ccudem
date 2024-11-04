@@ -1,0 +1,3 @@
+member_id,first_name,last_name,birth_year,type,join_date,expiration_date,salt,hash
+1,Etienne,Comtois,1998,Membre,2019-01-01,2025-03-01,5040d0f8c114,1e8ee15d4506
+4,Philippe,Dessureault,2004,Président,2021-01-01,2024-03-01,004a181f7017,bf966524984e
